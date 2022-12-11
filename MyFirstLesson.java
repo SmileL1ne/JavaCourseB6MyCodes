@@ -385,6 +385,8 @@ public class MyFirstLesson{
 //        return isContinuing;
 //    }
         
+        System.out.println("Hello everyone!");
+        
     }
 }
 
