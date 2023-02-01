@@ -1,3 +1,5 @@
+package Homework;
+
 import jdk.nio.mapmode.ExtendedMapMode;
 
 import java.awt.desktop.ScreenSleepEvent;
@@ -319,7 +321,7 @@ public class MyFirstLesson{
 
         // СЕДЬМОЙ УРОК
 
-//        MyFirstLesson game = new MyFirstLesson();
+//        Homework.MyFirstLesson game = new Homework.MyFirstLesson();
 //        Scanner in = new Scanner(System.in);
 //        String[] weapons = {"rock", "paper", "scissors"};
 //        boolean isPlaying = true;
@@ -385,7 +387,7 @@ public class MyFirstLesson{
 //        return isContinuing;
 //    }
         
-        System.out.println("Hello everyone!");
+
         
     }
 }
